@@ -1,0 +1,29 @@
+@font-face {
+	font-family: 'Roboto';
+	src: local('Roboto'), url('~assets/fonts/Roboto-Black.ttf') format('ttf');
+	src: local('Roboto'), url('~assets/fonts/Roboto-Bold.ttf') format('ttf');
+  src: local('Roboto'), url('~assets/fonts/Roboto-Medium.ttf') format('ttf');
+	src: local('Roboto'), url('~assets/fonts/Roboto-Regular.ttf') format('ttf');
+	src: local('Roboto'), url('~assets/fonts/Roboto-Light.ttf') format('ttf');
+	src: local('Roboto'), url('~assets/fonts/Roboto-Italic.ttf') format('ttf');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.badge {
+	@apply bg-primary rounded-full;
+	display: inline-table;
+	vertical-align: middle;
+	width: 1rem;
+	height: 1rem;
+	border-radius: 50%;
+	font-size: 0.65rem;
+}
+
+.badge span {
+	@apply text-center;
+	display: table-cell;
+	vertical-align: middle;
+}

@@ -1,0 +1,42 @@
+{
+  "name": "whatsapp-web-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "NODE_ENV=develop nuxt",
+    "build": "NODE_ENV=develop nuxt build",
+    "start": "NODE_ENV=develop nuxt start",
+    "generate": "NODE_ENV=develop nuxt generate",
+    "lint:style": "stylelint \"**/*.{vue,css}\" --ignore-path .gitignore",
+    "lint": "yarn lint:style",
+    "test:e2e": "nightwatch"
+  },
+  "dependencies": {
+    "@nuxtjs/auth-next": "5.0.0-1622918202.e815752",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/pwa": "^3.3.5",
+    "@tailwindcss/jit": "^0.1.18",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "nuxt-user-agent": "^1.2.2",
+    "pusher-js": "^7.0.3",
+    "tailwindcss-animatecss": "0.3.3",
+    "vuex-persistedstate": "^4.0.0-beta.3"
+  },
+  "devDependencies": {
+    "@nuxtjs/device": "^2.1.0",
+    "@nuxtjs/laravel-echo": "https://github.com/djoks/laravel-echo-module-1.1.0.git",
+    "@nuxtjs/pwa": "^3.3.5",
+    "@nuxtjs/stylelint-module": "^4.0.0",
+    "@nuxtjs/tailwindcss": "^4.2.0",
+    "chromedriver": "^91.0.1",
+    "eslint-config-prettier": "^8.3.0",
+    "husky": "^4.3.8",
+    "nightwatch": "^1.7.6",
+    "postcss": "^8.3.5",
+    "prettier": "^2.3.2",
+    "stylelint": "^13.13.1",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-standard": "^22.0.0"
+  }
+}
