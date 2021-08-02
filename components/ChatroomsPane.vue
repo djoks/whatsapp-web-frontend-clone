@@ -1,10 +1,10 @@
 <template>
   <div class="bg-bunker flex flex-col border-r border-outer-space-400">
     <profile-bar />
-    <chat-room-search />
+    <chatroom-search />
 
     <div class="'flex-grow overflow-y-scroll">
-      <chat-room-item
+      <chatroom-item
         :chatroom="chatroom"
         v-for="chatroom in chatrooms"
         :key="chatroom.id"
@@ -14,9 +14,8 @@
 </template>
 
 <script>
-import ChatRoomItem from './ChatRoomItem.vue'
 export default {
-  name: 'ChatRoomList',
+  name: 'ChatroomsPane',
   data() {
     return {
       chatrooms: [

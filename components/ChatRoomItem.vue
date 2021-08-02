@@ -86,7 +86,7 @@
 
 <script>
 export default {
-  name: 'ChatRoomItem',
+  name: 'ChatroomItem',
   props: ['chatroom'],
   data() {
     return {

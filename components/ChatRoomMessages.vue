@@ -1,11 +1,12 @@
 <template>
   <div class="bg-ebony-clay flex items-center justify-center overflow-hidden">
-    <chat-room-default />
+    <chatroom-default />
+    <chatroom />
   </div>
 </template>
 
 <script>
 export default {
-  name: 'ChatRoomMessages',
+  name: 'ChatroomMessages',
 }
 </script>

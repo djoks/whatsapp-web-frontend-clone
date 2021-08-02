@@ -47,7 +47,7 @@
 
 <script>
 export default {
-  name: 'ChatRoomSearch',
+  name: 'ChatroomSearch',
   data() {
     return {
       isSearching: false,

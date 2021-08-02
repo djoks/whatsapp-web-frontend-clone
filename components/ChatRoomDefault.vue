@@ -30,7 +30,7 @@
 
 <script>
 export default {
-  name: 'ChatRoomDefault',
+  name: 'ChatroomDefault',
   methods: {
     os() {
       switch (this.$ua.os()) {
