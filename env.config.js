@@ -1,6 +1,6 @@
 const EnvVars = {
   develop: {
-    baseUrl: 'http://192.168.8.119:8001/v1',
+    baseUrl: 'http://192.168.8.119:8000',
     wsBroadcaster: 'pusher',
     wsHost: '192.168.8.119',
     wsPort: '6001',

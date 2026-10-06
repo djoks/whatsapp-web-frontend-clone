@@ -21,9 +21,14 @@
       connect your phone to Wi-Fi.</span
     >
     <span class="w-2/3 h-px bg-outer-space-400 my-10"></span>
-    <div class="text-white text-sm font-light">
-      <span class="opacity-70">Whatsapp is available for {{ os() }}.</span>
-      <a href="#" target="_blank" class="text-primary">Get it here.</a>
+    <div class="flex flex-row items-center text-white text-sm font-light">
+      <img
+        src="~/assets/images/laptop.svg"
+        alt=""
+        class="w-4 h-4 object-contain"
+      />
+      <span class="opacity-70 ml-2">Whatsapp is available for {{ os() }}.</span>
+      <a href="#" target="_blank" class="text-primary ml-2">Get it here.</a>
     </div>
   </div>
 </template>

@@ -1,6 +1,8 @@
 export const chat = {
   namespaced: true,
-  state: () => ({}),
+  state: () => ({
+    chatroom: {}
+  }),
   mutations: {},
   getters: {},
 }

@@ -1,0 +1,137 @@
+[
+    {
+        "cid": 1,
+        "photo_url": "https://i.pravatar.cc/150?img=10",
+        "name": "Slimsoja",
+        "phone": "+233647384938",
+        "about": "Lorem ipsum dolor sit amet.",
+        "isMuted": true,
+        "disappearMessages": false
+    },
+    {
+        "cid": 2,
+        "photo_url": "https://i.pravatar.cc/150?img=12",
+        "name": "Mr. Henry Spudnik",
+        "phone": "+233647384928",
+        "about": "Lorem ipsum dolor sit amet.",
+        "isMuted": true,
+        "disappearMessages": false
+    },
+    {
+        "cid": 3,
+        "photo_url": "https://i.pravatar.cc/150?img=4",
+        "name": "NBA Young Boy",
+        "phone": "+233647381138",
+        "about": "Lorem ipsum dolor sit amet.",
+        "isMuted": true,
+        "disappearMessages": false
+    },
+    {
+        "cid": 4,
+        "photo_url": "https://i.pravatar.cc/150?img=15",
+        "name": "Tyler Perry",
+        "phone": "+233457384938",
+        "about": "Lorem ipsum dolor sit amet.",
+        "isMuted": true,
+        "disappearMessages": false
+    },
+    {
+        "cid": 1,
+        "photo_url": "https://i.pravatar.cc/150?img=27",
+        "name": "Aunty Miguel",
+        "phone": "+233647384900",
+        "about": "Lorem ipsum dolor sit amet.",
+        "isMuted": true,
+        "disappearMessages": false
+    },
+    {
+        "cid": 1,
+        "photo_url": "https://i.pravatar.cc/150?img=8",
+        "name": "Sandra Sands",
+        "phone": "+233647384100",
+        "about": "Lorem ipsum dolor sit amet.",
+        "isMuted": true,
+        "disappearMessages": false
+    },
+    {
+        "cid": 1,
+        "photo_url": "https://i.pravatar.cc/150?img=9",
+        "name": "That Awesome Tailor",
+        "phone": "+233847364839",
+        "about": "Lorem ipsum dolor sit amet.",
+        "isMuted": true,
+        "disappearMessages": false
+    },
+    {
+        "cid": 1,
+        "photo_url": "https://i.pravatar.cc/150?img=10",
+        "name": "Side Chick #1",
+        "phone": "+233682348293",
+        "about": "Lorem ipsum dolor sit amet.",
+        "isMuted": true,
+        "disappearMessages": false
+    },
+    {
+        "cid": 1,
+        "photo_url": "https://i.pravatar.cc/150?img=11",
+        "name": "Side Chick #2",
+        "phone": "+233647355938",
+        "about": "Lorem ipsum dolor sit amet.",
+        "isMuted": true,
+        "disappearMessages": false
+    },
+    {
+        "cid": 1,
+        "photo_url": "https://i.pravatar.cc/150?img=34",
+        "name": "Maya Angelo",
+        "phone": "+233849384745",
+        "about": "Lorem ipsum dolor sit amet.",
+        "isMuted": true,
+        "disappearMessages": false
+    },
+    {
+        "cid": 1,
+        "photo_url": "https://i.pravatar.cc/150?img=55",
+        "name": "Isaac Newton",
+        "phone": "+233849384738",
+        "about": "Lorem ipsum dolor sit amet.",
+        "isMuted": true,
+        "disappearMessages": false
+    },
+    {
+        "cid": 1,
+        "photo_url": "https://i.pravatar.cc/150?img=48",
+        "name": "Kofi Kingston",
+        "phone": "+233849384742",
+        "about": "Lorem ipsum dolor sit amet.",
+        "isMuted": true,
+        "disappearMessages": false
+    },
+    {
+        "cid": 1,
+        "photo_url": "https://i.pravatar.cc/150?img=23",
+        "name": "Miranda Peters",
+        "phone": "+233849349738",
+        "about": "Lorem ipsum dolor sit amet.",
+        "isMuted": true,
+        "disappearMessages": false
+    },
+    {
+        "cid": 1,
+        "photo_url": "https://i.pravatar.cc/150?img=49",
+        "name": "Asiedu Yawson",
+        "phone": "+233939384738",
+        "about": "Lorem ipsum dolor sit amet.",
+        "isMuted": true,
+        "disappearMessages": false
+    },
+    {
+        "cid": 1,
+        "photo_url": "https://i.pravatar.cc/150?img=51",
+        "name": "Vida Plum",
+        "phone": "+233049384738",
+        "about": "Lorem ipsum dolor sit amet.",
+        "isMuted": true,
+        "disappearMessages": false
+    }
+]
